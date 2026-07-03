@@ -1,0 +1,25 @@
+{
+  "name": "astro-storyblok-finance-starter",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "devDependencies": {
+    "@astrojs/netlify": "^7.0.2",
+    "@netlify/dev": "^4.7.1",
+    "@netlify/vite-plugin": "^2.10.11",
+    "@storyblok/astro": "^8.1.0",
+    "@tailwindcss/typography": "^0.5.19",
+    "@tailwindcss/vite": "^4.1.17",
+    "astro": "6.0.4",
+    "axios": "^1.13.2",
+    "postcss-import": "^16.1.1",
+    "tailwindcss": "^4.1.17",
+    "vite-plugin-mkcert": "^1.17.9"
+  }
+}
