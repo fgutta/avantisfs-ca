@@ -10,13 +10,13 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "@astrojs/netlify": "^7.0.2",
+    "@astrojs/netlify": "^7.0.13",
     "@netlify/dev": "^4.7.1",
     "@netlify/vite-plugin": "^2.10.11",
     "@storyblok/astro": "^8.2.0",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.17",
-    "astro": "8.2.0",
+    "astro": "6.0.0",
     "axios": "^1.13.2",
     "postcss-import": "^16.1.1",
     "tailwindcss": "^4.1.17",
