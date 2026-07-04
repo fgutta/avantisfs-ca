@@ -16,7 +16,7 @@
     "@storyblok/astro": "^8.1.0",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.17",
-    "astro": "6.0.4",
+    "astro": "5.0.0",
     "axios": "^1.13.2",
     "postcss-import": "^16.1.1",
     "tailwindcss": "^4.1.17",
